@@ -8,7 +8,7 @@
   },
   "author": "kyle hogan",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@mapbox/geo-viewport": "^0.3.0",
     "@mapbox/sphericalmercator": "^1.1.0"
   }
