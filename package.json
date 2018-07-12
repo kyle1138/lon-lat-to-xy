@@ -1,0 +1,15 @@
+{
+  "name": "lon-lat-to-xy",
+  "version": "1.0.0",
+  "description": "convert latitude and longitude to x/y coordinates on mapbox map for the purpose of visual overlays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kyle hogan",
+  "license": "ISC",
+  "devDependencies": {
+    "@mapbox/geo-viewport": "^0.3.0",
+    "@mapbox/sphericalmercator": "^1.1.0"
+  }
+}
